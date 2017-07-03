@@ -1,5 +1,4 @@
 @import url(font-awesome.min.css);
-
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @n33co
@@ -1640,7 +1639,7 @@ body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 
 body, input, select, textarea {
     color: rgba(255, 255, 255, 0.55);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Sawarabi Gothic";
     font-size: 16.5pt;
     font-weight: normal;
     line-height: 1.75;
