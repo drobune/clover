@@ -3871,6 +3871,10 @@ body.is-loading #sidebar nav ul li {
 
 }
 
+#kyoto-branch, #fukuoka-branch {
+    width: 50%;
+}
+
 @media screen and (max-width: 736px) {
 
     #sidebar {
